@@ -5,6 +5,12 @@ Mostrar la tabla de resultados en un TablaView de los Conductores y Constructore
   **CAPTURA DE EJECUCIÓN**
 <img width="960" alt="CAPTURA PANTALLA 1" src="https://github.com/ToalaSanRi/TAREA-6-RETS/assets/169106800/41645668-5fe0-48ba-9fdb-e3fa34517dfb">
 
+   **CONDUCTORES**
+<img width="960" alt="CAPTURA PANTALLA CONDUCTORES" src="https://github.com/ToalaSanRi/TAREA-6-RETS/assets/169106800/449eb197-68a0-4699-a030-fceaec2166fe">
+
+   **CONSTRUCTORES**
+<img width="960" alt="CAPTURA PANTALLA CONSTRUCTORES" src="https://github.com/ToalaSanRi/TAREA-6-RETS/assets/169106800/f7808a9f-151a-4274-8ca6-f5d30fa439a7">
+
 
  **_MAIN_**
 
@@ -229,9 +235,3 @@ public class Main extends Application {
 	}
 }
 
-
-   **CONDUCTORES**
-<img width="960" alt="CAPTURA PANTALLA CONDUCTORES" src="https://github.com/ToalaSanRi/TAREA-6-RETS/assets/169106800/449eb197-68a0-4699-a030-fceaec2166fe">
-
-   **CONSTRUCTORES**
-<img width="960" alt="CAPTURA PANTALLA CONSTRUCTORES" src="https://github.com/ToalaSanRi/TAREA-6-RETS/assets/169106800/f7808a9f-151a-4274-8ca6-f5d30fa439a7">
